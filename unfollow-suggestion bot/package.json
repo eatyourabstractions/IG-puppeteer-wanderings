@@ -1,0 +1,17 @@
+{
+  "name": "igutils",
+  "version": "1.0.0",
+  "description": "ramdom puppeteer project for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael matos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "puppeteer": "^2.0.0",
+    "sightengine": "^1.3.1"
+  }
+}

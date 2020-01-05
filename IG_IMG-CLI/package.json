@@ -1,0 +1,18 @@
+{
+  "name": "ig_img-cli",
+  "version": "1.0.0",
+  "bin": {
+    "json-now": "./bin/index.js"
+  },
+  "description": "help batch download imgs from IGram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "michael matos baez",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "puppeteer": "^2.0.0"
+  }
+}
