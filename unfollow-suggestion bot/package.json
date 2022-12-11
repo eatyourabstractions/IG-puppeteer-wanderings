@@ -9,7 +9,7 @@
   "author": "michael matos",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nedb": "^1.8.0",
     "puppeteer": "^2.0.0",
     "sightengine": "^1.3.1"
